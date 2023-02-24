@@ -1,8 +1,11 @@
 ## 👋 It's me! 👋
+
 📧 dede0227@naver.com
 <br>
 📝 https://carrot-k.tistory.com/
 <br>
+
+
 
 ## 💻 Teck Stack 💻
 
