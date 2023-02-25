@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
    <img src="https://img.shields.io/badge/ajax-blue?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logoColor=white"><br>
+   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"><br>
    <img src="https://img.shields.io/badge/sql-red?style=for-the-badge&logoColor=white">
    <img src="https://img.shields.io/badge/springdata JPA-6DB33F?style=for-the-badge&logoColor=white">
    <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logoColor=white"><br>
